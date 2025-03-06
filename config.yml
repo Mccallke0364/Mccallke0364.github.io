@@ -10,25 +10,25 @@ taxonomies:
 
 menu:
     main:
-        - name: Books
-          url: books/
-          weight: 5 
-        - name: Papers
-          url: papers/
-          weight: 2
-        - name: Courses
-          url: courses/
-          weight: 3
-        - name: Data
-          url: data/
-          weight: 4 
+        # - name: Books
+        #   url: books/
+        #   weight: 5 
+        # - name: Papers
+        #   url: papers/
+        #   weight: 2
+        # - name: Courses
+        #   url: courses/
+        #   weight: 3
+        # - name: Data
+        #   url: data/
+        #   weight: 4 
         # - name: Blog
         #   url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
         #   weight: 6
 
 params:
     description: "I am a student at UWEC and am expected to graduate on May 17th 2025. I will graduate with a Computer Science BS and a Bioinformatics BS"
-    author: Katherine McCal
+    author: Katherine McCallum
     ##googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
