@@ -10,6 +10,9 @@ taxonomies:
 
 menu:
     main:
+        - Projects:
+          url: projects/
+          weight: 5
         # - name: Books
         #   url: books/
         #   weight: 5 
