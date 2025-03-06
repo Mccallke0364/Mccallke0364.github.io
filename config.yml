@@ -1,4 +1,4 @@
-baseURL: "https://pascalmichaillat.org/hugo-website/" 
+baseURL: "https://Katherine_McCallum.com/hugo-website/" 
 title: Katherine McCallum's Personal Website
 theme: PaperMod
 
@@ -28,8 +28,8 @@ menu:
 
 params:
     description: "I am a student at UWEC and am expected to graduate on May 17th 2025. I will graduate with a Computer Science BS and a Bioinformatics BS"
-    author: Katherine McCallum
-    # googleAnalyticsID: "G-XXXXX"
+    author: Katherine McCal
+    ##googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
     hideFooter: false
@@ -58,18 +58,18 @@ params:
           imageWidth: 160
           imageHeight: 160
           buttons:
-            - name: Papers
-              url: papers/
-            - name: Courses
-              url: courses/
-            - name: Data
-              url: data/
-            - name: Books
-              url: books/
-            - name: Tags
-              url: tags/
-            - name: Archive
-              url: archive/
+            # - name: Papers
+            #   url: papers/
+            # - name: Courses
+            #   url: courses/
+            # - name: Data
+            #   url: data/
+            # - name: Books
+            #   url: books/
+            # - name: Tags
+            #   url: tags/
+            # - name: Archive
+            #   url: archive/
             # - name: Blog
             #   url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
 
@@ -94,15 +94,18 @@ params:
         #   url: https://www.youtube.com/@alexandermccallsmithoffici9000
         # - name: Twitter
         #   url: https://twitter.com/McCallSmith
+        - name: Linkedin 
+          url: https://www.linkedin.com/in/katherine-emma-mccallum/
 
-    assets:
-        disableScrollBarStyle: true
+
+    # assets:
+    #     disableScrollBarStyle: true
     cover:
         hiddenInList: false
         hiddenInSingle: true
     label:
       text: "Katherine McCallum"
-      icon: favicon.ico
+      icon: Home.png #favicon.ico
       iconHeight: 18
 
 markup:
