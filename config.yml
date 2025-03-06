@@ -63,6 +63,8 @@ params:
           buttons:
             - name: Projects
               url: projects/
+            - name: Posters
+              url: posters/
             # - name: Papers
             #   url: papers/
             # - name: Courses
