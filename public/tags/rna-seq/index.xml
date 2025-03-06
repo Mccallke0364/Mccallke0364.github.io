@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>RNA-Seq on Katherine McCallum&#39;s Personal Website</title>
+    <link>http://localhost:1313/hugo-website/tags/rna-seq/</link>
+    <description>Recent content in RNA-Seq on Katherine McCallum&#39;s Personal Website</description>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 06 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/hugo-website/tags/rna-seq/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Applied Bioinformatics Schistosomiasis Research</title>
+      <link>http://localhost:1313/hugo-website/projects/schistosomiasis/</link>
+      <pubDate>Fri, 06 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hugo-website/projects/schistosomiasis/</guid>
+      <description>This project looks into the gene expression variations between liver and intestinal parasitic worms. The goal is to determine if current research is reliable even though it is done on liver worms.</description>
+    </item>
+  </channel>
+</rss>
