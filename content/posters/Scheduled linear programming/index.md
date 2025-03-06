@@ -1,18 +1,18 @@
 ---
-title: "The Finer Points of Sausage Dogs" 
+title: "Mathematics Department Scheduling Optimization" 
 date: 2004-12-28
 lastmod: 2024-07-12
-tags: ["zoology","sausage dogs","canine pulmonary efficiency","canine science","experimental zoology"]
-author: ["Florianus Prinzel", "Moritz-Maria von Igelfeld"]
-description: "This paper studies the pulmonary efficiency of sausage dogs. Published in the Journal of Canine Science, 2004." 
-summary: "This paper studies the pulmonary efficiency of sausage dogs through several experiments." 
+tags: ["linear programming", "mathematics", "scheduling", "optimization", "CERCA"]
+author: ["Annabelle Piotrowski", "Katherine McCallum", "Dr. Abra Brisbin"]
+description: "This poster is on the optimization of the Mathematics Department Scheduling process using linear programming." 
+summary: "This poster shows the progress of the project that optimizes preferences for scheduling classes for a semester in the mathematics department" 
 cover:
-    image: "paper2.png"
-    alt: "Dimensions of a sausage dog"
+    image: "Desk Man.png"
+    alt: "Man frustrated at his desk"
     relative: false
-editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
-    Text: "Journal of Canine Science"
+# editPost:
+#     URL: "https://github.com/pmichaillat/hugo-website"
+#     Text: "Journal of Canine Science"
 
 ---
 

@@ -7,12 +7,12 @@ author: ["Katherine McCallum"]
 description: "This project looks into the gene expression variations between liver and intestinal parasitic worms. The goal is to determine if current research is reliable even though it is done on liver worms."
 summary: "This project focuses on using RNA-seq to find differences in gene expressions of liver and intestinal parasitic worms in mice."
 cover:
-    image: "https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=11166329_ppat.1012268.g003.jpg"
+    image: "Click on image to zoom.html"
     alt: "Winners vs Losers Chart"
     relative: false
-editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
-    Text: "Regensburg University Press"
+# editPost:
+#     URL: "https://github.com/pmichaillat/hugo-website"
+#     Text: "Regensburg University Press"
 showToc: false
 disableAnchoredHeadings: false
 

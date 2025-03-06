@@ -13,6 +13,9 @@ menu:
         - Projects:
           url: projects/
           weight: 5
+        - Posters: 
+          url: posters/
+          weight: 5
         # - name: Books
         #   url: books/
         #   weight: 5 
@@ -45,7 +48,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["books","courses","papers","data"]
+    MainSections: ["Projects","Posters"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -57,7 +60,7 @@ params:
           enabled: true
           title: Katherine McCallum
           subtitle: "I am a student at UWEC and am expected to graduate on May 17th 2025. I will graduate with a Computer Science BS and a Bioinformatics BS"
-          imageUrl: "Headshot.jpg"
+          imageUrl: "HeadShotCropped.jpg"
           imageWidth: 160
           imageHeight: 160
           buttons:
@@ -105,8 +108,8 @@ params:
           url: https://www.linkedin.com/in/katherine-emma-mccallum/
 
 
-    # assets:
-    #     disableScrollBarStyle: true
+    assets:
+        disableScrollBarStyle: true
     cover:
         hiddenInList: false
         hiddenInSingle: true

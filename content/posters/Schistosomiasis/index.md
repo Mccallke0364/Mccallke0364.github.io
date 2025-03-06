@@ -7,7 +7,7 @@ author: ["Katherine McCallum"]
 description: "This poster looks into the gene expression variations between liver and intestinal parasitic worms. The goal is to determine if current research is reliable even though it is done on liver worms." 
 summary: "This project focuses on using RNA-seq to find differences in gene expressions of liver and intestinal parasitic worms in mice." 
 cover:
-    image: "paper3.png"
+    image: "schistosomiasis_image.png"
     alt: "Schitosomiasis"
     relative: false
 # editPost:
