@@ -2,73 +2,73 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Katherine McCallum&#39;s Personal Website</title>
-    <link>http://localhost:1313/hugo-website/</link>
+    <link>https://Katherine_McCallum.com/hugo-website/</link>
     <description>Recent content on Katherine McCallum&#39;s Personal Website</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <lastBuildDate>Thu, 06 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/hugo-website/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://Katherine_McCallum.com/hugo-website/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Applied Bioinformatics Schistosomiasis Research</title>
-      <link>http://localhost:1313/hugo-website/projects/schistosomiasis/</link>
+      <link>https://Katherine_McCallum.com/hugo-website/projects/schistosomiasis/</link>
       <pubDate>Fri, 06 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-website/projects/schistosomiasis/</guid>
+      <guid>https://Katherine_McCallum.com/hugo-website/projects/schistosomiasis/</guid>
       <description>This project looks into the gene expression variations between liver and intestinal parasitic worms. The goal is to determine if current research is reliable even though it is done on liver worms.</description>
     </item>
     <item>
       <title>Location</title>
-      <link>http://localhost:1313/hugo-website/location/</link>
+      <link>https://Katherine_McCallum.com/hugo-website/location/</link>
       <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-website/location/</guid>
+      <guid>https://Katherine_McCallum.com/hugo-website/location/</guid>
       <description>Professor Dr von Igelfeld&amp;#39;s mailing and office addresses at the Institute of Romance Philology.</description>
     </item>
     <item>
       <title>Office Hours</title>
-      <link>http://localhost:1313/hugo-website/officehours/</link>
+      <link>https://Katherine_McCallum.com/hugo-website/officehours/</link>
       <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-website/officehours/</guid>
+      <guid>https://Katherine_McCallum.com/hugo-website/officehours/</guid>
       <description>Schedule and location for Professor Dr von Igelfeld&amp;#39;s office hours.</description>
     </item>
     <item>
       <title>Automated Morphometry</title>
-      <link>http://localhost:1313/hugo-website/posters/gomes_ai/</link>
+      <link>https://Katherine_McCallum.com/hugo-website/posters/gomes_ai/</link>
       <pubDate>Sun, 30 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-website/posters/gomes_ai/</guid>
+      <guid>https://Katherine_McCallum.com/hugo-website/posters/gomes_ai/</guid>
       <description>This poster is an overview of automated morphometry research to determine adaptations that plants have made to survive in their environment.</description>
     </item>
     <item>
       <title>still a work in progress</title>
-      <link>http://localhost:1313/hugo-website/posters/schistosomiasis/</link>
+      <link>https://Katherine_McCallum.com/hugo-website/posters/schistosomiasis/</link>
       <pubDate>Tue, 06 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-website/posters/schistosomiasis/</guid>
+      <guid>https://Katherine_McCallum.com/hugo-website/posters/schistosomiasis/</guid>
       <description>This poster looks into the gene expression variations between liver and intestinal parasitic worms. The goal is to determine if current research is reliable even though it is done on liver worms.</description>
     </item>
     <item>
       <title>List of Irregular Verbs Across Romance Languages</title>
-      <link>http://localhost:1313/hugo-website/data/data1/</link>
+      <link>https://Katherine_McCallum.com/hugo-website/data/data1/</link>
       <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-website/data/data1/</guid>
+      <guid>https://Katherine_McCallum.com/hugo-website/data/data1/</guid>
       <description>This dataset contains all irregular verbs in known Romance languages.</description>
     </item>
     <item>
       <title>Mathematics Department Scheduling Optimization</title>
-      <link>http://localhost:1313/hugo-website/posters/scheduled-linear-programming/</link>
+      <link>https://Katherine_McCallum.com/hugo-website/posters/scheduled-linear-programming/</link>
       <pubDate>Tue, 28 Dec 2004 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-website/posters/scheduled-linear-programming/</guid>
+      <guid>https://Katherine_McCallum.com/hugo-website/posters/scheduled-linear-programming/</guid>
       <description>This poster is on the optimization of the Mathematics Department Scheduling process using linear programming.</description>
     </item>
     <item>
       <title>Lectures at the Villa of Reduced Circumstances</title>
-      <link>http://localhost:1313/hugo-website/courses/course1/</link>
+      <link>https://Katherine_McCallum.com/hugo-website/courses/course1/</link>
       <pubDate>Mon, 10 Mar 2003 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-website/courses/course1/</guid>
+      <guid>https://Katherine_McCallum.com/hugo-website/courses/course1/</guid>
       <description>This graduate course presents classical results in Romance philology.</description>
     </item>
     <item>
       <title>Profanity in Early Irish</title>
-      <link>http://localhost:1313/hugo-website/courses/course2/</link>
+      <link>https://Katherine_McCallum.com/hugo-website/courses/course2/</link>
       <pubDate>Sat, 16 Jun 1990 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-website/courses/course2/</guid>
+      <guid>https://Katherine_McCallum.com/hugo-website/courses/course2/</guid>
       <description>This undergraduate course discusses profanity in Early Irish.</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Leaf on Katherine McCallum&#39;s Personal Website</title>
-    <link>http://localhost:1313/hugo-website/tags/leaf/</link>
+    <link>https://Katherine_McCallum.com/hugo-website/tags/leaf/</link>
     <description>Recent content in Leaf on Katherine McCallum&#39;s Personal Website</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <lastBuildDate>Sun, 12 Mar 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/hugo-website/tags/leaf/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://Katherine_McCallum.com/hugo-website/tags/leaf/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Automated Morphometry</title>
-      <link>http://localhost:1313/hugo-website/posters/gomes_ai/</link>
+      <link>https://Katherine_McCallum.com/hugo-website/posters/gomes_ai/</link>
       <pubDate>Sun, 30 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-website/posters/gomes_ai/</guid>
+      <guid>https://Katherine_McCallum.com/hugo-website/posters/gomes_ai/</guid>
       <description>This poster is an overview of automated morphometry research to determine adaptations that plants have made to survive in their environment.</description>
     </item>
   </channel>
