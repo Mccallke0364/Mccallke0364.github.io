@@ -57,7 +57,7 @@ params:
           enabled: true
           title: Katherine McCallum
           subtitle: "I am a student at UWEC and am expected to graduate on May 17th 2025. I will graduate with a Computer Science BS and a Bioinformatics BS"
-          imageUrl: "picture.jpeg"
+          imageUrl: "Headshot.jpg"
           imageWidth: 160
           imageHeight: 160
           buttons:
