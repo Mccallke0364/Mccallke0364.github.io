@@ -115,8 +115,9 @@ params:
         hiddenInSingle: true
     label:
       text: "Katherine McCallum"
-      icon: favicon.ico
+      icon: Home.png #favicon.ico
       iconHeight: 18
+
 
 markup:
     goldmark:
