@@ -19,7 +19,7 @@ cover:
 ---
 
 ##### Download
-+ [Poster] (NCUR_2023_Poplar_Automated_Morphometry_Semifinal_Draft_CURRENT.pdf)
++ [Poster](NCUR_2023_Poplar_Automated_Morphometry_Semifinal_Draft_CURRENT.pdf)
 <!-- + [Paper](paper1.pdf)
 + [Online appendix](appendix1.pdf)
 + [Code and data](https://github.com/pmichaillat/feru) -->

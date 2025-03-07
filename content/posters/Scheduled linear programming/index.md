@@ -7,7 +7,7 @@ author: ["Annabelle Piotrowski", "Katherine McCallum", "Dr. Abra Brisbin"]
 description: "This poster is on the optimization of the Mathematics Department Scheduling process using linear programming." 
 summary: "This poster shows the progress of the project that optimizes preferences for scheduling classes for a semester in the mathematics department" 
 cover:
-    image: "Desk Man.png"
+    image: "resized_Desk_Man.png"
     alt: "Man frustrated at his desk"
     relative: false
 # editPost:
@@ -20,9 +20,9 @@ cover:
 
 ##### Download
 
-+ [Poster] (CERCA_scheduling_poster_version_2.pdf)
-+ [Presentation] (DS 150 Final Project Presentation.pptx)
-+ [PresentationPDF] (DS 150 Final Project Presentation.pdf)
++ [Poster](CERCA_scheduling_poster_version_2.pdf)
++ [Presentation](DS_150_Final_Project_Presentation.pptx)
++ [PresentationPDF](DS_150_Final_Project_Presentation.pdf)
 <!-- + [Paper](paper2.pdf)
 + [Online appendix](appendix2.pdf)
 + [Code and data](https://github.com/pmichaillat/wunk) -->
