@@ -49,5 +49,5 @@ pages = {1299--1302}}
 
 ##### Related material
 
-+ [Projects] (projects/Schistosomiasis/index.md)
++ [Projects](projects/Schistosomiasis/index.md)
 <!-- + [Nontechnical summary](https://www.alexandermccallsmith.com/book/your-inner-hedgehog) -->
