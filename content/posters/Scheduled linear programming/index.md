@@ -7,9 +7,9 @@ author: ["Annabelle Piotrowski", "Katherine McCallum", "Dr. Abra Brisbin"]
 description: "This poster is on the optimization of the Mathematics Department Scheduling process using linear programming." 
 summary: "This poster shows the progress of the project that optimizes preferences for scheduling classes for a semester in the mathematics department" 
 cover:
-    image: "content/posters/Scheduled linear programming/resized_Desk_Man.jpg"
+    image: "resized_Desk_Man.jpg"
     alt: "Man frustrated at his desk"
-    relative: false
+    relative: true
 # editPost:
 #     URL: "https://github.com/pmichaillat/hugo-website"
 #     Text: "Journal of Canine Science"

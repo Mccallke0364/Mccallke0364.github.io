@@ -77,3 +77,7 @@ publisher = {Regensburg University Press},
 address = {Regensburg, Germany},
 url = {http://www.alexandermccallsmith.com/book/portuguese-irregular-verbs}}
 ``` -->
+
+##### Related material
+
++ [Schistosomiasis Poster](posters/Schistosomiasis/)
