@@ -9,7 +9,7 @@ summary: "This project focuses on using RNA-seq to find differences in gene expr
 cover:
     image: "Click_on_image_to_zoom.html"
     alt: "Winners vs Losers Chart"
-    relative: false
+    relative: true
 # editPost:
 #     URL: "https://github.com/pmichaillat/hugo-website"
 #     Text: "Regensburg University Press"
