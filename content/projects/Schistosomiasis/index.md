@@ -78,6 +78,7 @@ address = {Regensburg, Germany},
 url = {http://www.alexandermccallsmith.com/book/portuguese-irregular-verbs}}
 ``` -->
 
-##### Related material
+<!-- ##### Related material
 
-+ [Schistosomiasis Poster](posters/Schistosomiasis/)
+
++ [Schistosomiasis Poster]() -->
